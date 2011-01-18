@@ -3,7 +3,7 @@ require 'httparty'
 require 'json'
 require 'pp'
 
-API_KEY = 'e1b4ea3b9f0b8b1a689df3bc506901a7152fac07'
+API_KEY = 'XXXX'
 JOB = '3452'
 ANSWER_FIELDS = ['business_url', 'business_has_website']
 UPPER_BOUND = 1.0
